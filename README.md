@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhigyab Khaund</h1>
-<h3 align="center">a passionate software developer and hardware enthusiast with a background in Electronics Engineering and a deep interest in cutting-edge technologies. 🎓 I completed my B.Tech in Electronics Engineering and am currently pursuing my Master’s in Computer Science at Trinity College Dublin, specializing in Future Networked Systems.</h3>
+<h3 align="center">A passionate software developer and hardware enthusiast with a background in Computer Science Engineering and Electronics Engineering. I have a deep interest in cutting-edge technologies. 🎓 I completed my B.Tech in Electronics Engineering and am currently pursuing my Master’s in Computer Science at Trinity College Dublin, specializing in Future Networked Systems.</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Zf0RC4Y3Cu9Ry3iTecklXKjJki6xLR3/view?usp=sharing](https://drive.google.com/file/d/10Zf0RC4Y3Cu9Ry3iTecklXKjJki6xLR3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abhigyankhaund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhigyankhaund" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhigyankhaund92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhigyankhaund92" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/elgj7onsmw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/elgj7onsmw/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
