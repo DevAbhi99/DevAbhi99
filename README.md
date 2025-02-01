@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhigyab Khaund</h1>
 <h3 align="center">a passionate software developer and hardware enthusiast with a background in Electronics Engineering and a deep interest in cutting-edge technologies. 🎓 I completed my B.Tech in Electronics Engineering and am currently pursuing my Master’s in Computer Science at Trinity College Dublin, specializing in Future Networked Systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devabhi99&label=Profile%20views&color=0e75b6&style=flat" alt="devabhi99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devabhi99" alt="devabhi99" /></a> </p>
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Zf0RC4Y3Cu9Ry3iTecklXKjJki6xLR3/view?usp=sharing](https://drive.google.com/file/d/10Zf0RC4Y3Cu9Ry3iTecklXKjJki6xLR3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
@@ -19,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabhi99&show_icons=true&locale=en&layout=compact" alt="devabhi99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devabhi99&show_icons=true&locale=en" alt="devabhi99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabhi99&" alt="devabhi99" /></p>
