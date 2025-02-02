@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhigyab Khaund</h1>
 <h3 align="center">A passionate software developer and hardware enthusiast with a background in Computer Science Engineering and Electronics Engineering. I have a deep interest in cutting-edge technologies. 🎓 I completed my B.Tech in Electronics Engineering and am currently pursuing my Master’s in Computer Science at Trinity College Dublin, specializing in Future Networked Systems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devabhi99" alt="devabhi99" /></a> </p>
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Zf0RC4Y3Cu9Ry3iTecklXKjJki6xLR3/view?usp=sharing](https://drive.google.com/file/d/10Zf0RC4Y3Cu9Ry3iTecklXKjJki6xLR3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
