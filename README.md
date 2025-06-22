@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhigyab Khaund</h1>
-<h3 align="center">A passionate software developer and hardware enthusiast with a background in Computer Science Engineering and Electronics Engineering. I have a deep interest in cutting-edge technologies. 🎓 I completed my B.Tech in Electronics Engineering and am currently pursuing my Master’s in Computer Science at Trinity College Dublin, specializing in Future Networked Systems.</h3>
+<h3 align="center">
+A passionate software developer and hardware enthusiast with a solid background in Electronics Engineering. 🎓 I am currently pursuing my Master’s in Computer Science at <strong>Trinity College Dublin</strong>, one of Europe’s leading universities, with a specialization in Future Networked Systems. My academic journey, from a B.Tech in Electronics Engineering to advanced studies in Computer Science, reflects my deep commitment to mastering cutting-edge technologies and building impactful solutions.
+</h3>
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Zf0RC4Y3Cu9Ry3iTecklXKjJki6xLR3/view?usp=sharing](https://drive.google.com/file/d/10Zf0RC4Y3Cu9Ry3iTecklXKjJki6xLR3/view?usp=sharing)
 
